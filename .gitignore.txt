@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode or PyCharm project settings (optional)
+.vscode/
+.idea/
+
+# CSV/Generated files (optional if large or not useful in GitHub)
+data/sales_data.csv
