@@ -1,29 +1,15 @@
 
 # Sales Analysis Project
 
-This project simulates sales data, uploads it to a MySQL database, and analyzes it using Python.
 
-## Folder Structure
+🧠 Project Objective
 
-Sales-analysis-project/
-│
-├── data/
-│ └── sales_data.csv # The generated sales data
-│
-├── notebooks/
-│ ├── 01_generate_data.ipynb # Generate and save synthetic data
-│ ├── 02_upload_to_mysql.ipynb # Upload data to MySQL
-│ └── 03_visualize_sales.ipynb # Visualize sales data
-│
-├── scripts/
-│ └── upload_to_mysql.py # Script version for uploading data
-│
-├── README.md
-├── .gitignore
-└── requirements.txt
+To simulate and analyze sales data in order to:
 
-
-
+• Understand sales trends over time
+• Identify top-performing products
+• Evaluate the performance of individual sales representatives
+• Analyze overall profit generation
 
 ## Requirements
 
@@ -41,11 +27,3 @@ Sales-analysis-project/
 
 This is a beginner-friendly data analysis project using Python, Pandas, and NumPy, where I worked with synthetic sales data to analyze performance, trends, and profitability.
 
-🧠 Project Objective
-
-To simulate and analyze sales data in order to:
-
-• Understand sales trends over time
-• Identify top-performing products
-• Evaluate the performance of individual sales representatives
-• Analyze overall profit generation
